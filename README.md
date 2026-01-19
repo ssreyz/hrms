@@ -137,11 +137,11 @@ class AppConfig {
 
 ## Screenshots
 
-<img width="411" height="838" alt="image" src="https://github.com/user-attachments/assets/7df80509-56e2-47db-b94c-8ea5e16f62a6" />
+<img width="411" height="838" alt="image" src="https://github.com/user-attachments/assets/7df80509-56e2-47db-b94c-8ea5e16f62a6" /> \n
 
-<img width="409" height="818" alt="image" src="https://github.com/user-attachments/assets/e4685cf9-e10f-4248-b684-99acf7e80c88" />
+<img width="409" height="818" alt="image" src="https://github.com/user-attachments/assets/e4685cf9-e10f-4248-b684-99acf7e80c88" /> \n
 
-<img width="413" height="819" alt="image" src="https://github.com/user-attachments/assets/2456bac8-f1df-47a1-bd6a-07f484463c0d" />
+<img width="413" height="819" alt="image" src="https://github.com/user-attachments/assets/2456bac8-f1df-47a1-bd6a-07f484463c0d" /> \n
 
 
 
